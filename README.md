@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Esaanjum
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently learning PyQt/PySide & Machine Learning (Image Recognition)
+- 🌱 I’m currently learning PyQt/PySide & Image Recognition
