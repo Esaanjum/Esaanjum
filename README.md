@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Esaanjum
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently learning Data Mining/Web Scraping
+- 🌱 I’m currently expanding my knowledge in my field!
