@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Esaanjum
-- 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently expanding my knowledge in my field!
+- 🧑‍💻 I’m a freelance software developer.
+- 🖥️ I’m currently developing desktop apps, web scraping & automation scripts.
